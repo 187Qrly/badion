@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Exec=BadlionClient
+Name=Badlion Client
+GenericName=Badlion
+Comment=The better Minecraft client
+StartupNotify=true
+Keywords=Badlion;Minecraft;Client;BadlionClient
